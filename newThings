@@ -1,0 +1,28 @@
+-	Libraries:
+  o	p5.sound: https://p5js.org/reference/#/libraries/p5.sound
+  o	p5.play: http://molleindustria.github.io/p5.play/ 
+
+-	Velocity/Gravity (not in p5.js reference, youtube link in reference)
+
+-	Function preload: uploading and using sounds, background images, fonts…
+  o	loadFont: https://p5js.org/reference/#/p5/loadFont 
+  o	loadSound: https://p5js.org/reference/#/p5/loadSound 
+  o	loadImage: https://p5js.org/reference/#/p5/loadImage 
+
+-	Collision (not in p5.js reference, youtube link in reference)
+
+-	Framecount/Timer: https://p5js.org/reference/#/p5/frameCount 
+
+-	Arc: https://p5js.org/reference/#/p5/arc
+
+-	Constant PI: https://p5js.org/reference/#/p5/PI
+
+-	Keys
+  o	KeyPressed: https://p5js.org/reference/#/p5/keyPressed
+  o	KeyTyped: https://p5js.org/reference/#/p5/keyTyped
+  o	KeyDown: https://p5js.org/reference/#/p5/keyIsDown 
+
+-	Typography: 
+  o	textAlign: https://p5js.org/reference/#/p5/textAlign 
+  o	textFont: https://p5js.org/reference/#/p5/textFont 
+  o	textSize: https://p5js.org/reference/#/p5/textSize 
